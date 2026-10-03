@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of extum/flarum-ext-old-title.** Not for installation: use [Packagist](https://packagist.org/packages/extum/flarum-ext-old-title) or the [upstream repository](https://github.com/Extum/flarum-ext-old-title).
 
-**0** versions archived · Latest: [`v1.0.1`](https://github.com/flarchive/extum-flarum-ext-old-title/tree/archive/v1.0.1) · License: `MIT` · Flarum: `^0.1.0-beta-7`
+**2** versions archived · Latest: [`v1.0.1`](https://github.com/flarchive/extum-flarum-ext-old-title/tree/archive/v1.0.1) · License: `MIT` · Flarum: `^0.1.0-beta-7`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0.0` | 2018-08-04 | `^0.1.0-beta-7` | [Browse](https://github.com/flarchive/extum-flarum-ext-old-title/tree/archive/v1.0.0) |
+| `v1.0.1` | 2018-08-04 | `^0.1.0-beta-7` | [Browse](https://github.com/flarchive/extum-flarum-ext-old-title/tree/archive/v1.0.1) |
 
 Catalog entry: [packages/extum-flarum-ext-old-title.json](https://github.com/flarchive/archive-index/blob/main/packages/extum-flarum-ext-old-title.json)
 
